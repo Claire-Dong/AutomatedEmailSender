@@ -1,0 +1,10 @@
+Subject: Tip of the Day - Osmotic Pressure
+
+Hello there,
+ 
+I just wanted to write you a quick email and remind you that osmotic pressure is a coligative property (depends on the number of solute molecules but not on the nature of these molecules) and is the pressure that would have to be applied to stop osmosis from happening.  If the concentration of the two solutions you're working with are drastically different, osmotic pressure will be high.  If the two solutions have relatively similar concentrations, osmotic pressure will be lower.
+ 
+You'll be seeing osmotic pressure in Bio 7 too: Oncotic pressure (the pressure due to a high concentration of albumin near the end of the capillary bed) is a form of osmotic pressure and functions to pull water back into the capillary bed.
+
+Cheers,
+Claire

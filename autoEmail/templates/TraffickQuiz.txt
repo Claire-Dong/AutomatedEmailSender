@@ -1,0 +1,62 @@
+Subject: Tip of the Day - Protein Trafficking Quiz
+
+Hello there,
+ 
+Today's tip of the day is a  quick little quiz on protein trafficking.  See if you can answer the five questions below and then scroll down to check your answers.  Good luck!
+ 
+1. A protein might have which of the following:
+    (a) signal sequence and localization signal
+    (b) localization signal and transmembrane domain(s)
+    (c) no signal sequence but a targeting signal
+    (d) signal sequence and a transmembrane domain
+ 
+2. A localization signal can target proteins to the:
+    (a) nucleus or the mitochondria only
+    (b) nucleus, the mitochondria or peroxisomes
+    (c) mitochondria, SES or RER
+    (d) cytoplasm or extracellular matrix
+ 
+3. A targeting signal can send proteins to the:
+    (a) cytoplasm
+    (b) lysosomes, SES or RER
+    (c) mitochondria, nucleus or peroxisomes
+    (d) plasma membrane or extracellular matrix
+ 
+4. Hexokinase contains:
+    (a) A signal sequence but no targeting signal
+    (b) A localization signal only
+    (c) No signal sequence or localization signal
+    (d) A signal sequence and a targeting signal
+ 
+5. A protein with no trafficking signal whatsoever will end up localized in the:
+    (a) nucleus
+    (b) extracellular matrix
+    (c) cytoplasm
+    (d) RER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--------------------------
+ 
+REVIEW
+Remember that...
+ 
+Localization signals target proteins that were made in the cytoplasm (i.e. no signal sequence) to the nucleus, mitochondria or peroxisomes.  These proteins will not contain signal sequences or targeting signals.
+ 
+A signal sequence moves a protein to the RER (or secretory pathway).  A transmembrane domain can also be enough to target a protein to the RER (i.e. a protein that has transmembrane domain(s) may not need a signal sequence).  Proteins that are translated at the RER will end up secreted outside of the cell, in the plasma membrane, or will contain a targeting signal.
+ 
+A targeting signal targets proteins going through the RER-Golgi network to lysosomes, SER, RER or Golgi.  These proteins must also contain a signal sequence.
+ 
+If a protein contains no trafficking signal whatsoever, it will end up in the cytoplasm.
+ 
+ANSWERS
+ 
+1. D
+2. B
+3. B
+4. C (you should know from Bio1 that hexokinase is a cytoplasmic protein)
+5. C

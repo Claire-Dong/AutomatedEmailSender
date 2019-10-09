@@ -1,0 +1,20 @@
+Subject: Amino Acid Mnemonics
+
+Hi everyone, 
+
+Some students have been asking me about amino acid mnemonics. Here's one way to remember things: 
+
+- His goes both ways (ie. can be protonated or deprotonated at physiological pH)
+- Polar amino acids = GCATS GA LAH (pronounced G-cats [like MCAT])
+		- Polar neutral = GCATS (glutamine, cysteine, asparagine, threonine, serine)
+		- Polar acidic = GA (glutamic acid, aspartic acid)
+		- Polar basic = LAH (lysine, arginine, histidine)
+- Non polar amino acids 
+		-I find it helpful to memorize what group each polar amino acid falls into, and by default, everything else is non polar. 
+		-However, there is another mnemonic for non polar amino acids!
+		-"I saw Lucy methodically probe and feel Alan and then Val tripped on glycine" 
+		-OR in other words "I saw (ISO) LEUcy METhodically PRObe and PHEel ALAn and then VAL TRYpped on the GLYCINE"
+		-Isoleucine, methionine, proline, phenylalanine, alanine, valine, tryptophan, glycine
+
+Cheers,
+Claire

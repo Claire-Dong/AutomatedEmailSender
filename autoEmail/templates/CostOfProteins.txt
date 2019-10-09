@@ -1,0 +1,21 @@
+Subject: Tip of the Day - Cost of Proteins
+
+Hi there,
+ 
+I just wanted to drop you an email and remind you that it costs 4n high energy bonds to make a protein (via translation), where n is the number of amino acids in the peptide chain.
+ 
+Initiation costs 3 high energy bonds:
+- 2 high energy bonds to link Met to its tRNA via an aminoacyl tRNA synthetase
+- 1 high energy bond to bring Met-tRNA into the P site of the ribosome
+ 
+Elongation costs 4 high energy bonds per amino acid:
+- 2 high energy bonds to link each amino acid to its tRNA via the aminoacyl tRNA synthetase family of enzymes
+- 1 high energy bond to bring the amino acid into the ribosome
+- 1 high energy bond to move the ribosome over by one codon or three nucleotides
+ 
+Termination costs one high energy bond.
+ 
+See Bio3 for more information and let me know if you have any questions.
+ 
+Thanks,
+Claire

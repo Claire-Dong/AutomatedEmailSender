@@ -1,0 +1,10 @@
+Subject: Glycolysis
+
+Hi there,
+ 
+I just wanted to drop you a line and remind you that the three key enzymes you should know from glycolysis are hexokinase (HK), phosphofructokinase (PFK) and pyruvate kinase (PK). The first two use ATP and the second one makes ATP. All three catalyze irreversible reactions with negative delta Gs.
+ 
+Four enzymes are required to get around these steps in gluconeogenesis. Glucose 6-phosphatase (G6Pase) replaces HK, fructose 1,6-bisphosphatase (F1,6BPase) replaces PFK and two enzymes replace PK: pyruvate carboxylase and PEP carboxykinase.
+
+I hope the studying is going well,
+Claire

@@ -1,0 +1,16 @@
+Subject: Tip of the Day – Watch the Wording
+
+Hello all,
+
+Today's tip is a caution about genetics questions.  Check out these three question stems:
+What is the probability of their son having…?
+What is the probability of them having a son who…?
+What is the probability of their child having…?
+
+These 3 questions can all look the same at the end of a long test day.  However, they are actually asking you very different things.  In the first one, you know the child is male and do not need to include a probability calculation for this. In the second, you need to include a p = 0.5 for the chances of the child being a male. In the third one, sex of the child doesn't matter.
+
+How the MCAT asks the question will affect how you answer it. Make sure you pay close attention to details in genetics questions, so you don't fall for any tricks.
+
+Let me know if you have any questions.
+Best,
+Claire

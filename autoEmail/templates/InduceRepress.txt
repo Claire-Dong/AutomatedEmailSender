@@ -1,0 +1,15 @@
+Subject: Tip of the Day - Inducible and Repressible
+
+Hello all,
+ 
+In today's email, I wanted to quickly clarify the difference between auxotrophs (for example, bacteria that are arg-) and organisms with inducible transcription (for example, bacteria that are lac+).  
+ 
+Auxotrophs are organisms (bacteria or fungi) that cannot survive on minimal media (which is mostly just glucose) and require additional supplement(s) to survive.  This means that the organism (let's use bacteria as an example) should be able to make everything it needs to survive (things like uracil, thymine, leucine, arginine, etc) but cannot (due to mutation).  Whatever substance(s) the bacteria is unable to make is denoted with a negative sign.  For example, wild type (or normal or prototrophic) bacteria can make everything it needs.  It can grow on minimal media.  In contrast, an arg- auxotrophic bacteria can grow on minimal media ONLY IF arginine is added or supplemented.  These bacteria will not grow on minimal media alone because they need arginine and cannot make it themselves.  For more information, see page 118 of your Bio Review book.
+ 
+Another related concept is that of repressible enzyme transcription.  Let's go back to the wild type bacteria that can make all the substances it needs to survive.  This bacteria will only make arginine when it needs to.  If there is lots of arginine floating around the cell, why would the bacteria bother making more?  To save energy, this bacteria will turn off transcription of the genes that code for enzymes required in the biosynthetic pathway that makes arginine.  However, if the bacteria takes cellular inventory and finds that it is running low on arginine, it will turn on transcription of these enzymes so they will be transcribed and translated.  This will allow biosynthesis of arginine when the bacteria cell needs it.  This is an example of repressible transcription because the presence of arginine turns off transcription of the enzymes required to make arginine.  For more information, see page 79-80 of your Bio Review book.
+ 
+The opposite of repressible enzymes are inducible enzymes and the best example of these is the lac operon.  Whereas the arginine operon would be turned off by arginine, the lac operon is turned ON by lactose.  This is because the enzymes coded by the lac operon are part of a catabolic process.  When lactose is present, the cell needs to break it down and it needs enzymes to do this.  Cells that can use lactose and have a functional lac operon are denoted lac+.  For more information, see pages 79-81and 118 of your Bio Review book.
+ 
+I hope this has helped clarify.  Please let me know if you have any questions.
+Cheers,
+Claire

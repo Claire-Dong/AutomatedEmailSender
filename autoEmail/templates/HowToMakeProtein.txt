@@ -1,0 +1,20 @@
+Subject: Tip of the Day - How to Make a Protein
+
+Hello all,
+ 
+I've received some content questions lately about the segments of DNA and RNA required to make a protein.  I thought everyone would benefit from the answer, so I'm sending this to all of you.
+ 
+There are several regions of DNA that are required to make a protein at the end of the day.  They are (in order):
+1. Promoter to tell RNA Pol where to start transcription (you should also know some common promoter elements for both prokaryotes and eukaryotes; see bio chapter 2)
+2. Transcription start site, where RNA Pol starts synthesizing RNA
+3. Translation regulatory regions, that tell the ribosome where to dock; these are commonly called the 5'UTR or 5' untranslated region, and include regulatory sequences like the Shine-Dalgarno sequence (in prokaryotes) and the Kozak sequence (in eukaryotes)
+4. Start codon, where the ribosome starts protein synthesis (AUG)
+5. The gene coding region, which can include exons which are kept during splicing, and introns which are removed during splicing
+6. A stop codon (UAG, UGA, UAA)
+7. The 3' UTR or untranslated region, which is extra transcript past the stop codon
+8. Transcription termination sequence, telling RNA Pol that is it done now (this can be a poly-A sequence in eukaryotes)
+ 
+If this seems a little confusing to you, I recommend that you draw it all out and play with transcription and translation a little.  Let me know if you need any help with this.
+ 
+Cheers,
+Claire

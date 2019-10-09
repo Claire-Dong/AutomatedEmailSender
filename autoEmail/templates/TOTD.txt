@@ -1,0 +1,74 @@
+Subject: Tip of the day - Bio memorization
+
+Hi there,
+ 
+It is true that the MCAT will test you in biology and organic chemistry.  But because the MCAT is a passage-based exam, it also tests critical thinking and logical reasoning.  As a consequence, you need to "think big" about biology to get a high score.  You need to practice passages to fine tune your abilities to see the big picture, fill in gaps, and make inferences.
+ 
+However, there are some basic things that you just plain need to memorize, and it is a good idea to get this out of the way early-on in the MCAT journey.  Below is a list of biology content and concepts that you need to know for the MCAT.  Try to get these things memorized sooner rather than later, so you can move onto the more important task of becoming an expect at critical thinking and logical reasoning.
+ 
+Biology Lecture 2 – Cell Respiration
+• Cell respiration summary numbers
+	o How many ATP are per molecule of glucose (in prokaryotes and eukaryotes)
+	o How to can calculate these numbers
+• Recognize the structure of pyruvate
+ 
+Biology Lecture 2 – Biochemistry
+• Structures of:
+	o D-glucose
+	o Glycerol
+• For all 20 amino acids, students should know:
+	o Structure
+	o 3 letter abbreviation 
+	o 1 letter abbreviation
+	o Classification:
+		-Nonpolar – aliphatic or aromatic
+		-Polar – acidic, basic or neutral
+		-Sulfur-containing
+	o Net charge at physiological pH
+ 
+Biology Lecture 5 – Genetics
+• Genotypic and phenotypic ratios for the following monohybrid crosses:
+	o AA x aa
+	o AA x Aa
+	o Aa x aa
+	o Aa x Aa
+• Phenotypic ratios for the following dihybrid crosses:
+	o AaBb x aabb
+	o AaBb x AaBb
+• 5 Hardy-Weinberg assumptions
+ 
+Biology Lecture 7 – Neurobiology
+• Functions of the brain subdivisions
+ 
+Biology Lecture 8 – Endocrine System
+• Hormones listed on page 317 of the Biology Review; for each one, students should know:
+	o Origin
+	o Target(s)
+	o Action or effect(s)
+	o Classification:
+		Amines: epinephrine and thyroid hormone
+		Steroids: 3 adrenal cortex hormones (cortisol, aldosterone, sex steroids), estrogen, progesterone, testosterone
+		Peptides: all the rest of the hormones 
+ 
+Biology Lecture 9 – Digestive and Excretory Systems
+• Digestive secretions and their roles (especially enzymes)
+• Recognize the structure of urea
+ 
+Biology Lecture 11 – Reproduction and Development
+• Which parts of the body are derived from the ectoderm, mesoderm and endoderm
+ 
+Biology Equations
+• Cost of making peptide chains, 4n (Bio3)
+• Frequency of recombination (RF) = (# recombinants) / total offspring (Bio6)
+• Hardy-Weinberg (Bio6)
+• Cardiac output (Bio7)
+• Blood flow (Bio7)
+ 
+Do Not Memorize
+• Exact mechanisms of proteases used as examples in the review book
+• Details of molecules through the Krebs cycle
+• Krebs cycle or ETC enzyme names (except IDH and ATP synthase)
+• Structure of the sex steroids
+ 
+Let me know if you have any questions and thanks,
+Claire

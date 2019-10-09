@@ -1,0 +1,165 @@
+Subject: Genetics Quiz
+
+Hello there!
+ 
+Today's tip is actually a quiz!  Yay!
+Try to answer the questions below and please do them in order. Then check out the solutions below. If you get stuck on a question, look at the answer for that question and that question only, and then keep working.
+ 
+1. How is red-green colour blindness inherited in humans?
+ 
+2a. What two sex chromosomes do females have?
+2b. Is this considered haploid or diploid?
+ 
+3a. What two sex chromosomes do males have?
+3b. Is this considered haploid or diploid?
+ 
+4. The frequency of the red-green colour blindness allele in the human population is 5%.  What is the frequency of the wild type (or normal) allele?
+ 
+5a. What percentage of females will be colourblind?
+5b. What percentage of females will carry the colour blind allele but not be colourblind?
+5c. What is the generic term used to describe these females?
+5d. What percentage of females will carry two wild type alleles?
+5e. What percentage of females will have normal vision?
+5f. What percentage of females will have normal vision or be colour blind?
+5g. What is the name of the equations you used to answer question 5?
+ 
+6a. What percentage of males will be colourblind?
+6b. What percentage of males will be wild type?
+6c. What percentage of males will be colourblind or have normal vision?
+ 
+7a. Are there more colourblind males or colourblind females in the population?
+7b. Why?
+ 
+ 
+Good luck!
+ 
+Cheers,
+Claire
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions 
+
+--------Question #1--------
+ 
+How is red-green colour blindness inherited in humans? 
+X-linked Recessive 
+ 
+--------Question #2--------
+ 
+2a. What two sex chromosomes do females have? 
+Two X chromosomes 
+ 
+2b. Is this considered haploid or diploid? 
+Diploid because the two chromosomes are homologous. 
+ 
+--------Question #3--------
+ 
+3a. What two sex chromosomes do males have? 
+XY
+ 
+3b. Is this considered haploid or diploid? 
+Haploid because the two chromosomes are not homologous (remember we talked about how male humans are hemizygous in class). 
+ 
+--------Question #4--------
+ 
+4. The frequency of the red-green colour blindness allele in the human population is 5%. What is the frequency of the wild type (or normal) allele? 
+If p = frequency of the dominant allele (A) 
+q = frequency of the recessive allele (a) 
+Given that p + q = 1 and q = 0.05 
+Therefore p = 0.95 
+ 
+--------Question #5--------
+ 
+5a. What percentage of females will be colourblind? 
+This will equal the q2 term of the Hardy-Weinberg Equilibrium equation 
+q2 = (0.05)2 = 0.0025 = 0.25% (notice that this is 1 out of 400 females – not very many) 
+ 
+5b. What percentage of females will carry the colour blind allele but not be colourblind? 
+This will equal the 2pq term of the Hardy-Weinberg Equilibrium equation 
+2pq = 2(0.95)(0.05) = 0.095 = 9.5% 
+ 
+5c. What is the generic term used to describe these females? 
+Carriers, because they carry the recessive allele but do not phenotypically express it 
+ 
+ 
+5d. What percentage of females will carry two wild type alleles? 
+This will equal the p2 term of the Hardy-Weinberg Equilibrium equation 
+p2 = (0.95)2 = 0.9025 = 90.25% 
+ 
+5e. What percentage of females will have normal vision? 
+There are two ways to answer this question 
+First:
+You could have noticed that this will equal the p2 + 2qp term of the Hardy-Weinberg Equilibrium equation 
+p2 + 2pq = 0.9025 + 0.095 = 0.9975 = 99.75% 
+Second:
+You could have thought that this would include XAXA OR XAXa females 
+Since this is an “OR” statement, you could add your answers from questions 5b and 5d: 0.095 + 0.9025 = 0.9975 = 99.75% 
+ 
+5f. What percentage of females will have normal vision or be colour blind? 
+There are three ways to answer this question 
+First:
+You might have recognized that this would include the p2 + 2pq + q2 terms (all the terms) from the Hardy-Weinberg equation 
+Therefore, p2 + 2pq + q2 = 0.9025 + 0.095 + 0.0025 = 1 
+This is a great way to check that your math adds up to 1 (or 100%) 
+Second:
+You could add your answers from question 5a and 5e (since this questions asks “OR”, remember to add, not multiply) 
+Therefore, 0.0025 + 0.9975 = 1 (or 100%) 
+Third:
+You might have seen that this must include the whole population of females 
+The answer must therefore be 100% 
+ 
+5g. What is the name of the equation you used to answer question 5? 
+Hardy-Weinberg Equilibrium 
+ 
+--------Question #6--------
+ 
+6a. What percentage of males will be colourblind? 
+Since males are haploid for this trait, the phenotypic ratio is equal to the allele frequency 
+Since q = 0.05 (the frequency of the Xa allele in the population), 5% of males will be colourblind (and get the Xa chromosome from their mom) 
+Remember that their dad must give them a Y chromosome 
+ 
+6b. What percentage of males will be wild type? 
+Again, since males are haploid for this trait, the phenotypic ratio is equal to the allele frequency 
+Since p = 0.95 (the frequency of the XA allele in the population), 95% of males will have normal vision (and get the XA chromosome from their mom) 
+Remember that their dad must give them a Y chromosome 
+ 
+
+6c. What percentage of males will be colourblind or have normal vision? 
+Similar to question 5f, there are three ways to answer this question 
+First:
+You might have recognized that this would include the p + q terms from the Hardy-Weinberg equation 
+Therefore, p + q = 0.95 + 0.05 = 1 
+This is a great way to check that your math adds up to 1 (or 100%) 
+Second:
+You could add your answers from question 6a and 6b (since this questions asks “OR”, remember to add, not multiply) 
+Therefore, 0.95 + 0.05 = 1 (or 100%) 
+Third:
+You might have seen that this must include the whole population of males 
+The answer must therefore be 100% 
+ 
+--------Question #7--------
+ 
+7a. Are there more colourblind males or colourblind females in the population? 
+We found in question 5a that 0.25% of females are colourblind 
+We found in question 6a that 5% of males are colourblind 
+Therefore, there are more colourblind males in the population 
+ 
+7b. Why? 
+In order for females to be colourblind, they need to get both copies of the rare Xa allele 
+Since this allele is relatively rare (only 5% allele frequency), the probability of getting both recessive alleles is very low 

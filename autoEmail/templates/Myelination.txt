@@ -1,0 +1,16 @@
+Subject: Tip Of The Day - Myelination
+
+Hello all,
+ 
+I'm following up on a student question, and wanted to drop you all a quick email and remind you how myelination works.
+ 
+VGNa+C in the nodes of Ranvier cause sodium to flood into the neuron and cause depolarization.  This depolarization signal is sent to the next node and is not lost because of the myelin insulation.  There are no voltage gated sodium channels where there is myelin and the membrane is not formally depolarized.  Instead, the sodium ions are sent through to the next node where they trigger threshold and depolarization.  So if you took a snapshot of a neuron where it is covered in myelin, you would see:
+- no voltage gated sodium channels
+- no current leak because of the insulation
+- current being transported from the previous node to the next node
+ 
+Without getting into some pretty hard core biophysics, that just about covers it.
+I hope studying is going well and let me know if you have any questions.
+ 
+Thanks,
+Claire
